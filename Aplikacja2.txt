@@ -1,3 +1,5 @@
 Zmiana
 
+
 Zmiana na nowym branchu
+Zmiana tworzenie drugiego brancha
