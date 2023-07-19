@@ -3,3 +3,7 @@ Zmiana
 
 Zmiana na nowym branchu
 Zmiana tworzenie drugiego brancha
+Kolejna zmiana
+
+
+kolejna zmiana w pliku
